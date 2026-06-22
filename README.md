@@ -12,7 +12,7 @@
 
 ### 📊 Presentación del Proyecto
 
-📄 [Ver Presentación](./Proyecto%20Final%20-PresupuestoIA-%20Godoy%20Diego%20Adolfo.pptx)
+📄 https://docs.google.com/presentation/d/1xxhuEbkERP-47OUeBOcGxvFkyIean_Hz/edit?usp=drive_link&ouid=107774099174758290576&rtpof=true&sd=true
 
 ### 📁 Carpeta de Entrega
 
