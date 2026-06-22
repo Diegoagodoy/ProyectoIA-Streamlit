@@ -1,14 +1,22 @@
 # Proyecto Final – PresupuestoIA 🏗️
 
-## Accesos
+## 🚀 Accesos
 
 ### Aplicación Web
 
 🔗 https://proyectoia-appgit-efg9hqul8zazw2fax38jp6.streamlit.app/
 
-### Presentación del Proyecto
+### 🎥 Video Demostrativo
 
-📊 https://drive.google.com/drive/folders/1KtJG71k2xLKiRR8BLafdfyqXoFwi9D1-?usp=sharing
+🔗 https://drive.google.com/file/d/1QmwMDucdUJ3Qcr0vyYMHcEaDZRijHsdR/view?usp=drive_link
+
+### 📊 Presentación del Proyecto
+
+📄 Proyecto Final -PresupuestoIA- Godoy Diego Adolfo.pptx
+
+### 📁 Carpeta de Entrega
+
+🔗 https://drive.google.com/drive/folders/1KtJG71k2xLKiRR8BLafdfyqXoFwi9D1-?usp=sharing
 
 ---
 
@@ -20,7 +28,6 @@ La herramienta permite al usuario ingresar características básicas de un proye
 
 Este proyecto tiene como objetivo demostrar la integración de modelos de lenguaje en aplicaciones web para asistir en la toma de decisiones dentro del ámbito de la construcción.
 
----
 
 ## Funcionalidades
 
